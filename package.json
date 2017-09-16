@@ -1,0 +1,28 @@
+{
+  "name": "json-pipe-protocol",
+  "version": "1.0.1",
+  "description": "speak to your app via json messages on stdin/stdout",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/flaneurtv/json-pipe-protocol.git"
+  },
+  "keywords": [
+    "json",
+    "pipe",
+    "stdin",
+    "stdout"
+  ],
+  "author": "Markus Kienast <mark@flaneur.tv>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flaneurtv/json-pipe-protocol/issues"
+  },
+  "homepage": "https://github.com/flaneurtv/json-pipe-protocol#readme"
+}
